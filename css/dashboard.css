@@ -1,0 +1,27 @@
+.services{
+    margin: 2% 8%;
+}
+.services h2{
+    text-align: center;
+}
+.service-box{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2% 12%;
+    /* flex-direction: column; */
+}
+.service-box a{
+    margin: 2% auto;
+}
+.service-box .box {
+    height: 400px;
+    width: 400px;
+}
+.box .icon{
+    margin-left: 12%;
+    margin-top: 7%;
+}
+.icon img {
+    height: 300px;
+    width: 300px;
+}
